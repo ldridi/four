@@ -53,15 +53,15 @@ final class Versions
   'symfony/polyfill-util' => 'v1.2.0@ef830ce3d218e622b221d6bfad42c751d974bf99',
   'symfony/security-acl' => 'v3.0.0@053b49bf4aa333a392c83296855989bcf88ddad1',
   'symfony/swiftmailer-bundle' => 'v2.3.11@5e1a90f28213231ceee19c953bbebc5b5b95c690',
-  'symfony/symfony' => 'v2.8.6@8408816780215fae055599d100b5385d9a247151',
+  'symfony/symfony' => 'v2.8.7@663b2d6202c3149515b39cfe50a174a130acb8e2',
   'twig/twig' => 'v1.24.1@3566d311a92aae4deec6e48682dc5a4528c4a512',
   'willdurand/jsonp-callback-validator' => 'v1.1.0@1a7d388bb521959e612ef50c5c7b1691b097e909',
   'zendframework/zend-code' => '3.0.2@57cfbcf794a79985278d6308325bc86060af588c',
   'zendframework/zend-eventmanager' => '3.0.1@5c80bdee0e952be112dcec0968bad770082c3a6e',
   'zendframework/zend-json' => '2.6.1@4c8705dbe4ad7d7e51b2876c5b9eea0ef916ba28',
   'sensio/generator-bundle' => 'v3.0.6@ac91535054d025937d897d78ebb5fc2da5e955a4',
-  'symfony/phpunit-bridge' => 'v2.8.6@9d30940765450ccc58bc39f4bda30cc412101b4b',
-  'lotfidev/fourchette' => '1.0.0.0@',
+  'symfony/phpunit-bridge' => 'v2.8.7@9d30940765450ccc58bc39f4bda30cc412101b4b',
+  'lotfidev/fourchette' => '9999999-dev@e7ff62f35439bbc6a61a5bbeac0eba43adbb73f0',
 );
 
     private function __construct()
